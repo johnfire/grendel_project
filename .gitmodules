@@ -1,0 +1,12 @@
+[submodule "grendelAIandDecisionProgram"]
+	path = grendelAIandDecisionProgram
+	url = https://github.com/johnfire/grendelAIandDecisionProgram
+[submodule "grendelPhysicalOperationProgram"]
+	path = grendelPhysicalOperationProgram
+	url = http://github.com/johnfire/grendelPhysicalOperationProgram
+[submodule "grendelShares"]
+	path = grendelShares
+	url = http://github.com/johnfire/grendelShares
+[submodule "grendelSmallPrograms"]
+	path = grendelSmallPrograms
+	url = http://github.com/johnfire/grendelSmallPrograms
