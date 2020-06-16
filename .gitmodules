@@ -3,7 +3,7 @@
 	url = https://github.com/johnfire/grendelAIandDecisionProgram/
 [submodule "grendelPhysicalOperationProgram"]
 	path = grendelPhysicalOperationProgram
-	url = ./grendelPhysicalOperationProgram/
+	url = https://github.com/johnfire/grendelPhysicalOperationProgram/
 [submodule "grendelShares"]
 	path = grendelShares
 	url = ./grendelShares/
