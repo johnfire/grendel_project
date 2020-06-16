@@ -14,5 +14,8 @@ git submodule update --remote
 git pull origin master
 cd ..
 git pull origin master
+<<<<<<< HEAD
 
 # test
+=======
+>>>>>>> 1e9bb7712e5b2005cf906accaa641c096eb59d6d
