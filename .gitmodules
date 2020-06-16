@@ -6,7 +6,7 @@
 	url = https://github.com/johnfire/grendelPhysicalOperationProgram/
 [submodule "grendelShares"]
 	path = grendelShares
-	url = ./grendelShares/
+	url = https://github.com/johnfire/grendelShares/
 [submodule "grendelSmallPrograms"]
 	path = grendelSmallPrograms
-	url = ./grendelSmallPrograms/
+	url = https://github.com/johnfire/grendelSmallPrograms/
